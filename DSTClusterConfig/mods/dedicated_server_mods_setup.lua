@@ -41,3 +41,6 @@ ServerModSetup("588560555")
 -- Epic Healthbar
 -- https://steamcommunity.com/sharedfiles/filedetails/?id=1185229307
 ServerModSetup("1185229307")
+
+-- No Thermalstone durability
+ServerModSetup("466732225")
