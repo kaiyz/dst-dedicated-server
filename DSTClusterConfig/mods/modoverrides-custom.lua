@@ -72,4 +72,8 @@ return {
   -- Epic Healthbar
   -- https://steamcommunity.com/sharedfiles/filedetails/?id=1185229307
   ["workshop-1185229307"]={ configuration_options={  }, enabled=true }
+  
+  -- Thermal Stone Dura
+  ["workshop-466732225"]={ configuration_options={  }, enabled=true }
+  
 }
